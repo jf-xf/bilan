@@ -1,0 +1,14 @@
+name: my_ship_app
+description: 舰船装备计算器
+publish_to: 'none'
+
+environment:
+  sdk: ">=2.19.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  sqflite: ^2.3.0
+  path_provider: ^2.0.15
+  path: ^1.9.0
+  dropdown_search: ^6.1.1
